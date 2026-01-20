@@ -1,0 +1,45 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2ff;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 28px;
+  color: #2b2b6a;
+}
+
+#formular {
+  margin-top: 10px;
+}
+
+input {
+  font-size: 18px;
+  padding: 6px;
+  margin: 5px 5px 5px 0;
+  width: 160px;
+}
+
+button {
+  font-size: 18px;
+  padding: 6px 12px;
+  margin: 5px 5px 5px 0;
+  background: #2b2b6a;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1f1f4d;
+}
+
+#vysledek {
+  margin-top: 15px;
+  font-size: 20px;
+  color: #000;
+  padding: 8px;
+  background: white;
+  width: fit-content;
+  border: 1px solid #ccc;
+}
